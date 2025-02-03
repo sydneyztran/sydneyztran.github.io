@@ -3,11 +3,30 @@ body {
   }
   
   h1 {
-    color: white;
+    color: #EB38DA;
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
   }
-  
+
+  h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: #C94EBD;
+    text-align: center;
+  }
+
+  h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #C94EBD;
+    text-align: center;
+  }
+  h4 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #C94EBD;
+    text-align: center;
+  }
+
   p {
-    font-family: verdana;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
+    color: #9C3592;
   }
