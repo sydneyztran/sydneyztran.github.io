@@ -3,10 +3,9 @@ body {
 }
 
 h1 {
-  background-color: white;
   text-align: center;
-  color: purple;
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(65, 1, 65);
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h2 {
