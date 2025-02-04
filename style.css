@@ -40,7 +40,7 @@ p {
   color: rgb(244, 72, 106);
 }
 
-button {
+.resume-button {
   background-color: rgb(150, 93, 220);
   border: none;
   color: white;
