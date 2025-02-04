@@ -11,13 +11,15 @@ html, body {
 
 h1 {
   text-align: center;
-  color: rgb(210, 46, 210);
+  color: rgb(150, 93, 220);
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
 h2 {
   text-align: center;
   color: rgb(150, 93, 220);
+  font-family: "Lucida Console", "Courier New", monospace;
+
 }
 
 h3 {
