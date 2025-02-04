@@ -38,7 +38,7 @@ p {
   color: rgb(244, 72, 106);
 }
 
-.button {
+button {
   background-color: #2b85c1; /* Green */
   border: none;
   color: white;
