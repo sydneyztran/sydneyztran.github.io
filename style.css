@@ -9,7 +9,7 @@ html, body {
   background-position: center;
 }
 
-h1 {
+.name {
   text-align: center;
   color:  #2b85c1;
   font-size: 8vw;
