@@ -5,18 +5,18 @@ body {
 
 h1 {
   text-align: center;
-  color: rgb(65, 1, 65);
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(210, 46, 210);
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 h2 {
   text-align: center;
-  color: purple;
+  color: rgb(150, 93, 220);
 }
 
 h3 {
   text-align: center;
-  color: purple; 
+  color: rgb(150, 93, 220); 
 }
 
 h4 {
