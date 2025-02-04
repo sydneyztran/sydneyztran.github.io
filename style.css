@@ -1,32 +1,40 @@
 body {
-    background-color: lightpink;
-  }
-  
-  h1 {
-    color: white;
-    font-family:'Times New Roman', Times, serif;
-    text-align: center;
-  }
+  background-color: rgb(245, 209, 245);
+}
 
-  h2{
-    font-family: 'Times New Roman', Times, serif;
-    color: white;
-    text-align: center;
-  }
+h1 {
+  background-color: white;
+  text-align: center;
+  color: purple;
+}
 
-  h3 {
-    font-family: 'Times New Roman', Times, serif;
-    color: white;
-    text-align: center;
-  }
-  h4 {
-    font-family: 'Times New Roman', Times, serif;
-    color: white;
-    text-align: center;
-  }
+h2 {
+  text-align: center;
+  color: purple;
+}
 
-  p {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    color: #9C3592;
-  }
+h3 {
+  text-align: center;
+  color: purple; 
+}
+
+h4 {
+  text-align: center;
+  color: purple;
+}
+
+.mainImages{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: rgb(189, 97, 189);
+}
+
+p {
+  text-align: center;
+  background-color: rgb(189, 97, 189);
+  color: white;
+}
