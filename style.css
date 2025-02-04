@@ -12,6 +12,7 @@ html, body {
 h1 {
   text-align: center;
   color:  #2b85c1;
+  font-size: 8vw;
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
@@ -25,6 +26,7 @@ h2 {
 h3 {
   text-align: center;
   color:  #2b85c1; 
+  font-size: 4vw;
   font-family: "Lucida Console", "Courier New", monospace;
 
 }
