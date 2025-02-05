@@ -18,8 +18,10 @@ html, body {
   height: 100vh;
   /*width: 100vw;*/
   align-items: center;
+  
+  margin-top: 2in;
 
-  margin: 0;
+  /* margin: 0; */
   padding: 0;
   border: none;
 }
@@ -38,7 +40,6 @@ html, body {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-
 }
 
 .long-cat {
