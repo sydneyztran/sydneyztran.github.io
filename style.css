@@ -48,6 +48,14 @@ html, body {
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
+.about-me{
+  text-align: center;
+  font-size: 2vw;
+  font-weight: bold;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
 h2 {
   text-align: center;
   color:  #2b85c1;
