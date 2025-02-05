@@ -10,16 +10,12 @@ html, body {
   background-attachment: fixed;
 }
 
-.top {
-  margin-top: 2in;
-}
-
 .container {
   display: flex;
   align-items: center;
   justify-content: space-between;
   width: 80%;
-  margin: 2in auto;
+  margin: 2in;
 }
 
 .left-content{
