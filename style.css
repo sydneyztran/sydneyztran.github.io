@@ -15,7 +15,9 @@ html, body {
   align-items: center;
   justify-content: space-between;
   width: 80%;
-  margin: 2in;
+  margin-left: 2in;
+  margin-right: 2in;
+  margin-top: 1in;
 }
 
 .left-content{
