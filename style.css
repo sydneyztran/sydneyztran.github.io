@@ -12,6 +12,7 @@ html, body {
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
+  height: 100vh;
 }
 
 .container {
@@ -19,8 +20,7 @@ html, body {
   align-items: center;
   justify-content: space-between;
   width: 80%;
-  margin: 2in;
-
+  margin: 0;
 }
 
 .left-content{
@@ -112,4 +112,6 @@ p {
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
+  height: 100vh;
+  margin: 0;
 }
