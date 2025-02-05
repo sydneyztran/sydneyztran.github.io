@@ -11,14 +11,35 @@ html, body {
 }
 
 .top {
-  margin-top: 3in;
+  margin-top: 2in;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  margin: 2in auto;
+}
+
+.left-content{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  margin-left: 1in;
+}
+
+.long-cat {
+  height: auto;
+  margin-right: 2in;
 }
 
 .name {
   text-align: left;
   color:  #2b85c1;
   font-size: 3vw;
-  margin-left: 1.5in;
+  margin-left: 1in;
 
   font-family: "Lucida Console", "Courier New", monospace;
 }
@@ -32,7 +53,7 @@ h2 {
 
 h3 {
   text-align: left;
-  margin-left: 1.5in;
+  margin-left: 1in;
   color:  #2b85c1; 
   font-size: 1vw;
   font-family: "Lucida Console", "Courier New", monospace;
@@ -60,5 +81,5 @@ p {
   display: inline-block;
   font-size: 16px;
   margin: auto;
-  margin-left: 1.5in;
+  margin-left: 1.2in;
 }
