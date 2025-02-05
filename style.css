@@ -33,10 +33,7 @@ html, body {
 .long-cat {
   height: 5in;
   width: auto;
-  margin-top: 2in;
-  margin-bottom: 2in;
-  margin-left: 2in;
-  margin-right: 3.5in;
+  margin: 2in;
 }
 
 .name {
