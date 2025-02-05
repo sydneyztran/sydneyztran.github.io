@@ -22,12 +22,11 @@ html, body {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 20px;
   margin-left: 1in;
 }
 
 .long-cat {
-  height: 3in;
+  height: 5in;
   width: auto;
   margin-right: 2in;
 
