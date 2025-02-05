@@ -18,6 +18,7 @@ html, body {
   margin-left: 2in;
   margin-right: 2in;
   margin-top: 1in;
+
 }
 
 .left-content{
@@ -36,6 +37,8 @@ html, body {
   text-align: left;
   color:  #2b85c1;
   font-size: 3vw;
+  height: auto;
+  width: auto;
   margin-left: 1in;
   font-weight: bold;
   font-family: "Lucida Console", "Courier New", monospace;
