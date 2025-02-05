@@ -87,7 +87,7 @@ p {
   margin: auto;
   margin-left: 1in;
   cursor: pointer;
-
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 .resume-button:hover {
