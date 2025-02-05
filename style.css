@@ -19,22 +19,24 @@ html, body {
 .container {
   display: flex;
   align-items: center;
+  align-items: center;
   justify-content: space-between;
   width: 80%;
-  margin: 0;
+  margin: 2in;
 }
 
 .left-content{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  margin: 2in;
+  margin-right: 0.5in;
 }
 
 .long-cat {
   height: 5in;
   width: auto;
-  margin: 2in;
+  margin-left: 0.5in;
+
 }
 
 .name {
