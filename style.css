@@ -27,12 +27,16 @@ html, body {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  margin: 2in;
 }
 
 .long-cat {
   height: 5in;
   width: auto;
-  margin-right: 1.5in;
+  margin-top: 2in;
+  margin-bottom: 2in;
+  margin-left: 2in;
+  margin-right: 3.5in;
 }
 
 .name {
