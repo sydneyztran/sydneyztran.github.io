@@ -27,8 +27,10 @@ html, body {
 }
 
 .long-cat {
-  height: auto;
+  height: 3in;
+  width: auto;
   margin-right: 2in;
+
 }
 
 .name {
