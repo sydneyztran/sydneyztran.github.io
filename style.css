@@ -2,7 +2,7 @@ html, body {
   margin: 0;
   padding: 0;
   height: 100%;
-
+  background-color: transparent;
 }
 
 .intro {
@@ -41,7 +41,7 @@ html, body {
   text-align: left;
   color:  #2b85c1;
   font-size: 3vw;
-  height: auto;
+  height: auto; 
   width: auto;
   margin-left: 1in;
   font-weight: bold;
