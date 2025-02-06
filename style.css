@@ -126,20 +126,6 @@ p {
 
 
 .about {
-/*   
-  display: flex;
-  margin: 0; 
-  padding: 0;
-  border: none;
-
-  flex-direction: column;
-  background-image: url(https://img.freepik.com/free-photo/violet-watercolor-texture-background_1083-172.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-  height: 100vh; */
-
 
   display: flex;
   justify-content: center;
@@ -150,7 +136,6 @@ p {
   background-position: center;
   background-attachment: fixed;
   height: 100vh;
-  /*width: 100vw;*/
   align-items: center;
   margin: 0; 
   padding: 0;
@@ -193,4 +178,31 @@ p {
   height: 5in;
   width: auto;
   margin-left: 1in;
+}
+
+
+.experience{
+
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-image: url(https://img.freepik.com/premium-photo/light-original-purple-abstract-creative-background-design_851755-254237.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+  align-items: center;
+  margin: 0; 
+  padding: 0;
+  border: none;
+}
+
+.experience-title {
+  margin-top: 1in;
+  text-align: left;
+  font-size: 3vw;
+  font-weight: bold;
+  color:  #852bc1;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
