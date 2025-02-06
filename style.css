@@ -66,8 +66,9 @@ html, body {
 }
 
 .about-me{
+  margin-top: 1in;
   text-align: center;
-  font-size: 2vw;
+  font-size: 3vw;
   font-weight: bold;
   color:  #bf2bc1;
   font-family: "Lucida Console", "Courier New", monospace;
