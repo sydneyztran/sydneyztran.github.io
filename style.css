@@ -242,10 +242,8 @@ p {
 .job-city{
   color:  #8d3bc4;
   font-size: 0.90vw;
-  font-weight: bold;
   font-family: "Lucida Console", "Courier New", monospace;
   text-align: center;
-  font-style: italic;
 }
 
 .job-description {
