@@ -231,7 +231,7 @@ p {
 
 .job-title{
   color:  #852bc1;
-  font-size: 2vw;
+  font-size: 1vw;
   font-weight: bold;
   font-family: "Lucida Console", "Courier New", monospace;
   text-align: center;
@@ -239,7 +239,7 @@ p {
 
 .job-description {
   color:  #852bc1;
-  font-size: 1.5vw;
+  font-size: 0.75vw;
   font-family: "Lucida Console", "Courier New", monospace;
   text-align: left;
 }
