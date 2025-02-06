@@ -61,6 +61,22 @@ html, body {
   margin-left: 1in;
   font-weight: bold;
   font-family: "Lucida Console", "Courier New", monospace;
+
+  /* animations */
+  position: relative; 
+  animation: slideIn 2s ease-out forwards;
+
+}
+
+@keyframes slideIn{
+  0% {
+    transform: translateX(-100vw); 
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0); 
+    opacity: 1;
+  }
 }
 
 
