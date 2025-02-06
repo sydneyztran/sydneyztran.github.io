@@ -290,14 +290,14 @@ p {
   text-align: left;
   font-size: 3vw;
   font-weight: bold;
-  color:  #3b41e0;
+  color:  #279dd3;
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
 .contacts{
   text-align: left;
   margin-right: 1in;
-  color:  #3b41e0; 
+  color:  #279dd3; 
   font-size: 2vw;
   font-family: "Lucida Console", "Courier New", monospace;
   display: flex;
