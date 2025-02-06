@@ -5,6 +5,7 @@ html, body {
   background-color: transparent;
 }
 
+/* Intro Page */
 
 .intro {
 
@@ -131,7 +132,7 @@ p {
   color: rgb(150, 93, 220);
 }
 
-
+/* About Page */
 
 .about {
 
@@ -188,6 +189,7 @@ p {
   margin-left: 1in;
 }
 
+/* Experience Page */
 
 .experience{
 
@@ -267,6 +269,7 @@ p {
   align-items: center;
 }
   
+/* Contact Page */
 
 .contact {
   display: flex;
