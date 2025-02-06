@@ -402,6 +402,6 @@ p {
 }
 .intro-bio {
   animation: fadeIn 2s ease-in forwards;
-  animation-delay: 4s; 
+  animation-delay: 2s; 
   opacity: 0; 
 }
