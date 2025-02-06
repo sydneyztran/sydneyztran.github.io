@@ -392,7 +392,16 @@ p {
   animation: loadingDots 1.5s infinite;
 }
 
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
 .intro-bio {
-  opacity: 0;
-  transition: opacity 2s ease-in-out;
+  animation: fadeIn 2s ease-in forwards;
+  animation-delay: 4s; 
+  opacity: 0; 
 }
