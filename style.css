@@ -245,6 +245,7 @@ p {
   font-weight: bold;
   font-family: "Lucida Console", "Courier New", monospace;
   text-align: center;
+  font-size: italic;
 }
 
 .job-description {
