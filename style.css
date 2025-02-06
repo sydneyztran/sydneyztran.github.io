@@ -227,6 +227,8 @@ p {
   width: 5in;
   height: auto;
   padding: 15px 32px;
+  border-radius: 5px;
+  border: 1px solid 852bc1;
 }
 
 .job-title{
@@ -241,7 +243,7 @@ p {
   height: 0.5in;
   width: auto;
   border-radius: 5px;
-  border-color: 852bc1;
+  border: 1px solid 852bc1;
   background-color: white;
   padding: 15px 32px;
 }
