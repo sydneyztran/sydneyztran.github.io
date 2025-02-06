@@ -239,7 +239,7 @@ p {
   text-align: center;
 }
 
-.tu_logo{
+.tu_logo, .dod-logo {
   height: 0.5in;
   width: auto;
   border-radius: 5px;
