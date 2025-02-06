@@ -223,6 +223,9 @@ p {
   background-color: #c68bed;
   align-items: center;
   justify-content: center;
+  margin: 0.5in;
+  width: 5in;
+  height: auto;
 
 }
 
