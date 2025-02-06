@@ -115,7 +115,7 @@ p {
   margin: auto;
   margin-left: 1in;
   cursor: pointer;
-  border-radius: 10px;
+  border-radius: 2px;
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
