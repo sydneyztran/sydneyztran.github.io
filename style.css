@@ -310,7 +310,7 @@ p {
   width: auto;
 }
 
-.linkedin-button {
+.contact-button {
   background-color: transparent;
   border: 1px solid #1b6e95;
   color: #1b6e95;
@@ -323,13 +323,14 @@ p {
   cursor: pointer;
   border-radius: 2px;
   font-family: "Lucida Console", "Courier New", monospace;
+  margin-right: 0.2in;
 }
 
-.linkedin-button:hover {
+.contact-button:hover {
   background-color: white;
   color: #1b6e95;
 }
 
-.linkedin-link{
+.contact-link{
   text-decoration: none;
 }
