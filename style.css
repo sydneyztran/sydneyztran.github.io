@@ -309,3 +309,28 @@ p {
   height: 3in;
   width: auto;
 }
+
+.linkedin-button {
+  background-color: transparent;
+  border: 1px solid #1b6e95;
+  color: #1b6e95;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: auto;
+  margin-left: 1in;
+  cursor: pointer;
+  border-radius: 2px;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.linkedin-button:hover {
+  background-color: white;
+  color: #1b6e95;
+}
+
+.linkedin-link{
+  text-decoration: none;
+}
