@@ -218,7 +218,11 @@ p {
   font-size: 2vw;
   font-weight: bold;
   font-family: "Lucida Console", "Courier New", monospace;
-  
+
 }
 
+.tu_logo{
+  height: 1in;
+  width: auto;
+}
   
