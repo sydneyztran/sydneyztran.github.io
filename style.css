@@ -134,6 +134,12 @@ p {
 
 
 .about {
+  /*  */
+  display: flex;
+  margin: 0; 
+  padding: 0;
+  border: none;
+/*  */
   flex-direction: column;
   background-image: url(https://img.freepik.com/free-photo/violet-watercolor-texture-background_1083-172.jpg);
   background-size: cover;
@@ -141,7 +147,6 @@ p {
   background-position: center;
   background-attachment: fixed;
   height: 100vh;
-  margin: 0;
 }
 
 .all-about-me {
