@@ -225,7 +225,7 @@ p {
   justify-content: center;
   margin: 0.5in;
   width: 5in;
-  height: auto;
+  height: 8in;;
 
 }
 
@@ -241,5 +241,7 @@ p {
   height: 1in;
   width: auto;
   text-align: center;
+  background-color: white;
+  padding: 15px 32px;
 }
   
