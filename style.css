@@ -367,8 +367,8 @@ p {
 
 /* Make buttons more dynamic */
 .resume-button:hover, .contact-button:hover {
-  background-color: #852bc1;
-  color: white;
+  background-color: #ffffff;
+  color: rgb(140, 117, 229);
   transform: scale(1.05);
   transition: 0.3s ease-in-out;
 }
