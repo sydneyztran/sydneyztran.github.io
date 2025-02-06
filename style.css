@@ -134,26 +134,42 @@ p {
 
 
 .about {
-  /*  */
+/*   
   display: flex;
   margin: 0; 
   padding: 0;
   border: none;
-/*  */
+
   flex-direction: column;
   background-image: url(https://img.freepik.com/free-photo/violet-watercolor-texture-background_1083-172.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
+  height: 100vh; */
+
+
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk2MC1uaW5nLTMwLmpwZw.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
   height: 100vh;
+  /*width: 100vw;*/
+  align-items: center;
+  margin: 0; 
+  padding: 0;
+  border: none;
 }
 
 .all-about-me {
   text-align: left;
-  margin-left: 1in;
+  margin-right: 1in;
   color:  #bf2bc1; 
-  font-size: 1vw;
+  font-size: 2vw;
   font-family: "Lucida Console", "Courier New", monospace;
   display: flex;
   flex-direction: column;
