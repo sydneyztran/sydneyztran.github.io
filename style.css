@@ -225,8 +225,8 @@ p {
   justify-content: center;
   margin: 0.5in;
   width: 5in;
-  height: 8in;;
-
+  height: auto;
+  padding: 15px 32px;
 }
 
 .job-title{
