@@ -208,12 +208,17 @@ p {
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
-.math-lab, .dod, .turc {
+.experience-block{
   background-color: #c68bed;
+
+}
+
+.job-title{
+  color:  #852bc1;
+  font-size: 2vw;
+  font-weight: bold;
+  font-family: "Lucida Console", "Courier New", monospace;
   
 }
 
-
-.job-title {
-
-}
+  
