@@ -344,3 +344,36 @@ p {
 .contact-link{
   text-decoration: none;
 }
+
+/* Add to adjust the font for smaller screens */
+@media (max-width: 768px) {
+  .name, .about-me, .experience-title {
+      font-size: 5vw;
+  }
+
+  .intro-words, .intro-bio, .all-about-me, .job-title, .job-description {
+      font-size: 3vw;
+  }
+
+  .resume-button, .contact-button {
+      padding: 10px 20px;
+      font-size: 14px;
+  }
+
+  .long-cat, .shy-hi, .shocked-cat {
+      height: 3in;
+  }
+}
+
+/* Make buttons more dynamic */
+.resume-button:hover, .contact-button:hover {
+  background-color: #852bc1;
+  color: white;
+  transform: scale(1.05);
+  transition: 0.3s ease-in-out;
+}
+
+.long-cat:hover, .shy-hi:hover, .shocked-cat:hover {
+  transform: scale(1.02);
+  transition: 0.3s ease-in-out;
+}
