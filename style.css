@@ -377,3 +377,22 @@ p {
   transform: scale(1.02);
   transition: 0.3s ease-in-out;
 }
+
+/* Add more motion to the intro */
+@keyframes loadingDots {
+  0% { content: 'Presenting'; }
+  33% { content: 'Presenting.'; }
+  66% { content: 'Presenting..'; }
+  100% { content: 'Presenting...'; }
+}
+
+.intro-words::after {
+  content: 'Presenting';
+  display: inline-block;
+  animation: loadingDots 1.5s infinite;
+}
+
+.intro-bio {
+  opacity: 0;
+  transition: opacity 2s ease-in-out;
+}
