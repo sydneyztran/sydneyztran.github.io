@@ -46,7 +46,6 @@ html {
 .navbar a:hover {
   background-color: white;
   color: #2b85c1;
-  border-radius: 5px;
 }
 
 .intro, .about, .experience, .contact {
