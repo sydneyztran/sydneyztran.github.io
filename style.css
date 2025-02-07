@@ -287,11 +287,12 @@ p {
 }
 
 .contact-container {
+
   display: flex;
   align-items: center;
   justify-content: center;
   width: 100%;
-  margin: 0;
+  margin: 1in;
   padding: 0;
 }
 
