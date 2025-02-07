@@ -5,6 +5,54 @@ html, body {
   background-color: transparent;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+/* Navigation Bar */
+
+.navbar{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: rgba(43, 133, 193, 0.9); 
+  padding: 10px 0;
+  z-index: 1000; 
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.navbar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px; 
+}
+
+.navbar li {
+  display: inline;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.2rem;
+  font-family: "Lucida Console", "Courier New", monospace;
+  padding: 10px 15px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.navbar a:hover {
+  background-color: white;
+  color: #2b85c1;
+  border-radius: 5px;
+}
+
+.intro, .about, .experience, .contact {
+  padding-top: 60px;
+}
+
 /* Intro Page */
 
 .intro {
