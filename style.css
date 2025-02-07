@@ -433,7 +433,7 @@ p {
   color: rgb(140, 117, 229);
   transform: scale(1.05);
   transition: 0.3s ease-in-out;
-  cursor: url('cat-pointer.png'), auto;
+  cursor: url('cat-pointer.png') 4 4, auto;
 }
 
 .long-cat:hover, .shy-hi:hover, .shocked-cat:hover {
