@@ -466,3 +466,23 @@ p {
   animation-delay: 2s; 
   opacity: 0; 
 }
+
+/* Dark Mode */
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.navbar.dark-mode {
+  background-color: rgba(43, 133, 193, 0.9);
+}
+
+.dark-mode .resume-button, .dark-mode .contact-button {
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+.dark-mode .resume-button:hover, .dark-mode .contact-button:hover {
+  background-color: #ffffff;
+  color: #2b85c1;
+}
